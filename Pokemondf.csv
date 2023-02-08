@@ -149,7 +149,7 @@
 148;Dragonair;Dragon;;420;61;84;65;70;70;70;1;0;Middle
 149;Dragonite;Dragon;Flying;600;91;134;95;100;100;80;1;0;Final
 150;Mewtwo;Psychic;;680;106;110;90;154;90;130;1;1;Single
-151;Mew;Psychic;;600;100;100;100;100;100;100;1;0;Single
+151;Mew;Psychic;;600;100;100;100;100;100;100;1;1;Single
 152;Chikorita;Grass;;318;45;49;65;49;65;45;2;0;First
 153;Bayleef;Grass;;405;60;62;80;63;80;60;2;0;Middle
 154;Meganium;Grass;;525;80;82;100;83;100;80;2;0;Final
@@ -235,7 +235,7 @@
 234;Stantler;Normal;;465;73;95;62;85;65;85;2;0;Single
 235;Smeargle;Normal;;250;55;20;35;20;45;75;2;0;Single
 236;Tyrogue;Fighting;;210;35;35;35;35;35;35;2;0;Baby
-237;Hitmontop;Fighting;;455;50;95;95;35;110;70;2;0;Final
+237;Hitmontop;Fighting;;455;50;95;95;35;110;70;2;0;Single
 238;Smoochum;Ice;Psychic;305;45;30;15;85;65;65;2;0;Baby
 239;Elekid;Electric;;360;45;63;37;65;55;95;2;0;Baby
 240;Magby;Fire;;365;45;75;37;70;55;83;2;0;Baby
@@ -249,7 +249,7 @@
 248;Tyranitar;Rock;Dark;600;100;134;110;95;100;61;2;0;Final
 249;Lugia;Psychic;Flying;680;106;90;130;90;154;110;2;1;Single
 250;Ho-oh;Fire;Flying;680;106;130;90;110;154;90;2;1;Single
-251;Celebi;Psychic;Grass;600;100;100;100;100;100;100;2;0;Single
+251;Celebi;Psychic;Grass;600;100;100;100;100;100;100;2;1;Single
 252;Treecko;Grass;;310;40;45;35;65;55;70;3;0;First
 253;Grovyle;Grass;;405;50;65;45;85;65;95;3;0;Middle
 254;Sceptile;Grass;;530;70;85;65;105;85;120;3;0;Final
